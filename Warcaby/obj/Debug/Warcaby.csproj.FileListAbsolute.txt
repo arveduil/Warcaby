@@ -1,0 +1,52 @@
+D:\StatkiMoje\Statki\bin\Debug\Statki.exe.config
+D:\StatkiMoje\Statki\bin\Debug\Statki.exe
+D:\StatkiMoje\Statki\bin\Debug\Statki.pdb
+D:\StatkiMoje\Statki\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+D:\StatkiMoje\Statki\obj\Debug\MainWindow.g.cs
+D:\StatkiMoje\Statki\obj\Debug\App.g.cs
+D:\StatkiMoje\Statki\obj\Debug\Statki_Content.g.cs
+D:\StatkiMoje\Statki\obj\Debug\Statki_MarkupCompile.cache
+D:\StatkiMoje\Statki\obj\Debug\Statki_MarkupCompile.lref
+D:\StatkiMoje\Statki\obj\Debug\MainWindow.baml
+D:\StatkiMoje\Statki\obj\Debug\Statki.g.resources
+D:\StatkiMoje\Statki\obj\Debug\Statki.Properties.Resources.resources
+D:\StatkiMoje\Statki\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+D:\StatkiMoje\Statki\obj\Debug\Statki.exe
+D:\StatkiMoje\Statki\obj\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\bin\Debug\Statki.exe.config
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki.exe
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\bin\Debug\Statki.exe
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\bin\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\App.g.cs
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki_Content.g.cs
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki_MarkupCompile.cache
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki_MarkupCompile.lref
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\MainWindow.baml
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki.g.resources
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Statki.Properties.Resources.resources
+C:\Users\Piotr Boszczyk\Desktop\Warcaby\Statki\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+D:\Warcaby\Statki\bin\Debug\Statki.exe.config
+D:\Warcaby\Statki\obj\Debug\Statki.exe
+D:\Warcaby\Statki\obj\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Statki\bin\Debug\Statki.exe.config
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Statki\obj\Debug\Statki.exe
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Statki\obj\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Statki\bin\Debug\Warcaby.exe.config
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\App.g.cs
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby_Content.g.cs
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby_MarkupCompile.cache
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby_MarkupCompile.lref
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\bin\Debug\Warcaby.exe
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\bin\Debug\Warcaby.pdb
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\MainWindow.baml
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.g.resources
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.exe
+C:\Users\Piotr Boszczyk\Documents\GitHub\Warcaby\Warcaby\obj\Debug\Warcaby.pdb

@@ -1,0 +1,133 @@
+﻿<Window x:Class="Warcaby.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Warcaby"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="700"        
+        >
+
+
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="38*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="20*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="80*"/>
+
+
+        </Grid.RowDefinitions>
+
+
+
+        <Button x:Name="field00" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Padding="1,1,0.5,0.5" BorderThickness="1,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field10" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field20" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field30" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field40" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field50" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field60" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field70" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="1" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0.5" BorderThickness="1,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field01" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field11" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field21" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field31" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field41" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field51" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field61" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field71" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="3" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field02" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field12" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field22" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field32" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field42" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field52" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field62" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field72" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="5" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field03" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field13" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field23" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field33" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field43" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field53" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field63" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field73" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="7" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field04" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field14" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field24" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field34" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field44" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field54" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field64" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="Black" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field74" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="9" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field05" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field15" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field25" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field35" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field45" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field55" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field65" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field75" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="11" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field06" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field16" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field26" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field36" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field46" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field56" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field66" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field76" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="13" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+        <Button x:Name="field07" Content="" Margin="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,1,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field17" Content="" Margin="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field27" Content="" Margin="0" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field37" Content="" Margin="0" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field47" Content="" Margin="0" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field57" Content="" Margin="0" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field67" Content="" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+        <Button x:Name="field77" Content="" Margin="0" Grid.Row="8" Grid.ColumnSpan="2" Grid.Column="15" IsCancel="True" BorderBrush="Black" Background="White" Padding="1,0.5,0.5,0" BorderThickness="0.5,0.5,0.5,0.5" Click="buttonClick"/>
+
+
+
+
+        <Label x:Name="label" Content="Teraz ruch białych." Grid.Column="5" HorizontalAlignment="Left" Grid.Row="9" VerticalAlignment="Top" Grid.ColumnSpan="9" Height="76" Width="246" Margin="0,10,0,0" FontSize="24"/>
+        <Image x:Name="image" Grid.ColumnSpan="13" HorizontalAlignment="Left" Height="100" Margin="10,59,0,0" Grid.Row="9" VerticalAlignment="Top" Width="358" Source="Images/warcaby.png" Grid.Column="3"/>
+
+    </Grid>
+</Window>

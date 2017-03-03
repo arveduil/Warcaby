@@ -1,0 +1,30 @@
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\bin\Debug\Statki.exe.config
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.csprojResolveAssemblyReference.cache
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\MainWindow.g.cs
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\App.g.cs
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki_MarkupCompile.cache
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki_MarkupCompile.lref
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\bin\Debug\Statki.exe
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\bin\Debug\Statki.pdb
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\MainWindow.baml
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.g.resources
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.Properties.Resources.resources
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.csproj.GenerateResource.Cache
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.exe
+c:\users\piotr boszczyk\documents\visual studio 2015\Projects\Statki\Statki\obj\Debug\Statki.pdb
+C:\Users\Piotr Boszczyk\Documents\Visual Studio 2015\Projects\Statki\Statki\obj\Debug\Statki_Content.g.cs
+D:\StatkiMoje\Statki\bin\Debug\Statki.exe.config
+D:\StatkiMoje\Statki\obj\Debug\Statki.exe
+D:\StatkiMoje\Statki\obj\Debug\Statki.pdb
+D:\StatkiMoje\Statki\obj\Debug\Statki.csprojResolveAssemblyReference.cache
+D:\StatkiMoje\Statki\obj\Debug\App.g.cs
+D:\StatkiMoje\Statki\obj\Debug\Statki_Content.g.cs
+D:\StatkiMoje\Statki\obj\Debug\Statki_MarkupCompile.cache
+D:\StatkiMoje\Statki\bin\Debug\Statki.exe
+D:\StatkiMoje\Statki\bin\Debug\Statki.pdb
+D:\StatkiMoje\Statki\obj\Debug\MainWindow.g.cs
+D:\StatkiMoje\Statki\obj\Debug\Statki_MarkupCompile.lref
+D:\StatkiMoje\Statki\obj\Debug\MainWindow.baml
+D:\StatkiMoje\Statki\obj\Debug\Statki.g.resources
+D:\StatkiMoje\Statki\obj\Debug\Statki.Properties.Resources.resources
+D:\StatkiMoje\Statki\obj\Debug\Statki.csproj.GenerateResource.Cache
